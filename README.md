@@ -6,32 +6,33 @@ This repository contains a series of Java programming labs focused on core Java 
 
 ## 📂 Folder Structure Overview
 
-- **Lab1 ArrayList and LinkedList**  
+- **[Lab1 ArrayList and LinkedList](./Lab1%20ArrayList%20and%20LinkedList)**  
   Java programs demonstrating usage of `ArrayList` and `LinkedList` collections.
 
-- **Lab2 String Operations**  
+- **[Lab2 String Operations](./Lab2%20String%20Operations)**  
   Programs performing various string manipulations and performance testing.
 
-- **Lab3 String Modification**  
+- **[Lab3 String Modification](./Lab3%20String%20Modification)**  
   Exercises covering string operations such as palindrome checking, counting occurrences, trimming whitespace, etc.
 
-- **Lab4 Swing Programs 1**  
+- **[Lab4 Swing Programs 1](./Lab4%20Swing%20Programs%201)**  
   Introduction to Swing GUI programming with basic components.
 
-- **Lab5 Swing Programs 2**  
+- **[Lab5 Swing Programs 2](./Lab5%20Swing%20Programs%202)**  
   Advanced Swing programs featuring layouts, event handling, and components.
 
-- **Lab6 Servlet Programs**  
+- **[Lab6 Servlet Programs](./Lab6%20Servlet%20Programs)**  
   Servlet-based web applications demonstrating request handling and response generation.
 
-- **Lab7 Session and Cookie Management**  
+- **[Lab7 Session and Cookie Management](./Lab7%20Session%20and%20Cookie%20Managment)**  
   Web applications demonstrating HTTP sessions, cookies, and state management.
 
-- **Lab8 JDBC JSP Programs 1**  
+- **[Lab8 JDBC JSP Programs 1](./Lab8%20JDBC%20JSP%20Programs%201)**  
   Basic JDBC and JSP programs for database connectivity and dynamic web content.
 
-- **Lab9 JDBC JSP Programs 2**  
+- **[Lab9 JDBC JSP Programs 2](./Lab9%20JDBC%20JSP%20Programs%202)**  
   Advanced JDBC and JSP applications, including CRUD operations and connection pooling.
+
 
 ---
 
