@@ -2,11 +2,12 @@
 
 ## 📁 Lab2 String Operations
 
-- [StringOperations.java](./StringOperations.java)  
-- [StringOperations.png](./StringOperations.png)
+### Program Files
+- [StringOperations.java](./StringOperations.java)
+- [StringPerformanceTest.java](./StringPerformanceTest.java)
 
-- [StringPerformanceTest.java](./StringPerformanceTest.java)  
-- [StringPerformanceTest.png](./StringPerformanceTest.png)
+### Output Images
+- [StringOperations Output](./StringOperations.png)
+- [StringPerformanceTest Output](./StringPerformanceTest.png)
 
 ---
-
