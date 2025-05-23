@@ -12,11 +12,11 @@
 # Cookie Management Servlet Program
 
 ## Program File
-[CookieServlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/src/main/java/cookieservlet/CookieServlet.java)
+[CookieSErvlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/src/main/java/cookieservlet/CookieSErvlet.java)
 
 ## Output Images
-![Cookie Servlet](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/cookieservlet.jpg)
-![Cookie Result](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/cookieresult.jpg)
+[Cookie Servlet](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/cookieservlet.jpg)
+[Cookie Result](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/cookieresult.jpg)
 
 # Prime Checker Servlet Program
 
