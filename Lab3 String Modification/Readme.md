@@ -36,9 +36,9 @@
 ### 🖼 Output Images:
 - [3c1.png](./3C%20String%20Exercises/CapitalizeWords.png)
 - [3c2.png](./3C%20String%20Exercises/Generaterandomstrings.jpg)
-- [3b3.png](./3C%20String%20Exercises/IsNumeric.jpg)
-- [3b4.png](./3C%20String%20Exercises/Truncate.jpg)
-- [3b5.png](./3C%20String%20Exercises/3b5.png)
+- [3c3.png](./3C%20String%20Exercises/IsNumeric.jpg)
+- [3c4.png](./3C%20String%20Exercises/Truncate.jpg)
+- [3c5.png](./3C%20String%20Exercises/3b5.png)
 
 ---
 ---
