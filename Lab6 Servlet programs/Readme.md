@@ -1,9 +1,9 @@
+# Advanced Java Lab 6 - Servlet Programs
 
-
+## Programs and Output Links
 
 ### 1. Cookie Management Servlet
 - Program file: [CookieServlet.java](./Lab6%20Servlet%20programs/CookieManagement/CookieServlet/src/main/java/cookieservlet/CookieServlet.java)
-- *(No output image provided)*
 
 ---
 
@@ -22,6 +22,3 @@
 - Output images:
   - [primechecker.png](./Lab6%20Servlet%20programs/primechecker/primechecker.png)
   - [primecheckerresult.png](./Lab6%20Servlet%20programs/primechecker/primecheckerresult.png)
-
----
-
