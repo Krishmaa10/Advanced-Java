@@ -1,6 +1,6 @@
 # Lab 2: String Operations - Advanced Java
 
-## 📁 Lab2 String Operations
+## Lab2 String Operations
 
 ### Program Files
 - [StringOperations.java](./StringOperations.java)
