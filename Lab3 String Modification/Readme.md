@@ -1,6 +1,6 @@
 # Lab 3: String Modification - Advanced Java
 
-## 📁 3A String Operations
+## 3A String Operations
 
 ### Program File
 - [StringOperations.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3A%20String%20Operations/StringOperations.java)
@@ -10,42 +10,42 @@
 
 ---
 
-## 📁 3B String Exercises
+## 3B String Exercises
 
 ### Program Files
 - [CountOccurrences.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/CountOccurrences.java)  
-  Output: ![3b1.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b1.png)
+  Output: [3b1.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b1.png)
 
 - [IsNullOrEmpty.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/IsNullOrEmpty.java)  
-  Output: ![3b2.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b2.png)
+  Output: [3b2.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b2.png)
 
 - [IsPalindrome.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/IsPalindrome.java)  
-  Output: ![3b3.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b3.png)
+  Output: [3b3.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b3.png)
 
 - [RemoveWhitespace.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/RemoveWhitespace.java)  
-  Output: ![3b4.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b4.png)
+  Output: [3b4.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b4.png)
 
 - [ReverseString.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/ReverseString.java)  
-  Output: ![3b5.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b5.png)
+  Output: [3b5.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3B%20String%20Exercises/3b5.png)
 
 ---
 
-## 📁 3C String Exercises
+## 3C String Exercises
 
 ### Program Files
 - [CapitalizeWords.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CapitalizeWords.java)  
-  Output: ![CapitalizeWords.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CapitalizeWords.png)
+  Output: [CapitalizeWords.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CapitalizeWords.png)
 
 - [CountWords.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CountWords.java)  
-  Output: ![CountWords.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CountWords.jpg)
+  Output: [CountWords.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CountWords.jpg)
 
 - [GenerateRandomString.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/GenerateRandomString.java)  
-  Output: ![Generaterandomstrings.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/Generaterandomstrings.jpg)
+  Output: [Generaterandomstrings.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/Generaterandomstrings.jpg)
 
 - [IsNumeric.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/IsNumeric.java)  
-  Output: ![IsNumeric.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/IsNumeric.jpg)
+  Output: [IsNumeric.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/IsNumeric.jpg)
 
 - [Truncate.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/Truncate.java)  
-  Output: ![Truncate.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/Truncate.jpg)
+  Output: [Truncate.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/Truncate.jpg)
 
 ---
