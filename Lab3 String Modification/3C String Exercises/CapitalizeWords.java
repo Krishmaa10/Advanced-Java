@@ -12,6 +12,6 @@ public class CapitalizeWords {
     }
 
     public static void main(String[] args) {
-        System.out.println(capitalizeWords("hello world from java"));
+        System.out.println(capitalizeWords("hello world from krishma"));
     }
 }
