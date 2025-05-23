@@ -1,4 +1,4 @@
-# Advanced Java Labs Repository
+# Advanced Java Assignment Repository
 
 This repository contains a series of Java programming labs focused on core Java concepts, Swing GUI, Servlets, JSP, JDBC, and web session management. Each lab folder includes source code, example outputs, and resources to practice and understand advanced Java topics.
 
