@@ -1,7 +1,7 @@
 # Lab6 Servlet Programs
 
 ## Cookie Management Servlet
-- [CookieServlet.java](Lab6 Servlet programs/CookieManagement/CookieServlet/src/main/java/cookieservlet/CookieSErvlet.java)
+- [CookieServlet.java](./Lab6%20Servlet%20programs/Factorial/FactorialCalculatorDemo/src/main/java/FactorialServlet.java)
 - *(No output image provided)*
 
 ## Factorial Calculator
