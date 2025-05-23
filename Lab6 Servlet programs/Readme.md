@@ -9,14 +9,14 @@
 ## Output Image
 [Output](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/Factorial/factorial.png)
 
-
 # Cookie Management Servlet Program
 
 ## Program File
-[CookieServlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/src/main/java/CookieServlet.java)
+[CookieServlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/src/main/java/cookieservlet/CookieServlet.java)
 
-## Output Image
-[Output](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/cookieservlet.jpg)
+## Output Images
+![Cookie Servlet](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/cookieservlet.jpg)
+![Cookie Result](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/CookieManagement/CookieServlet/cookieresult.jpg)
 
 # Prime Checker Servlet Program
 
