@@ -31,7 +31,7 @@
 ## 📂 3C String Exercises
 
 ### 🔹 [CapitalizeWords.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CapitalizeWords.java)  
-🖼️ Output: *(Not uploaded)*
+🖼️ Output: [CapitalizeWords.png]([CountWords.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CapitalizeWords.png))
 
 ### 🔹 [CountWords.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CountWords.java)  
 🖼️ Output: [CountWords.jpg](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab3%20String%20Modification/3C%20String%20Exercises/CountWords.jpg)
