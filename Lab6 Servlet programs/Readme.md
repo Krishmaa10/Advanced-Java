@@ -1,19 +1,26 @@
 # Lab6 Servlet Programs
 
-## Cookie Management Servlet
-- [CookieServlet.java](./Lab6%20Servlet%20programs%20Factorial%20FactorialCalculatorDemo%20src/main/java/FactorialServlet.java)
-- *(No output image provided)*
+# Factorial Servlet Program
 
-## Factorial Calculator
-- [FactorialServlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6/Servlet/programs/Factorial/FactorialServlet.java)
-- [FactorialCalculatorDemo.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/Factorial/FactorialCalculatorDemo/src/main/java/FactorialCalculatorDemo.java)
-- Output:
-  - [factorial.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6/Servlet/programs/Factorial/factorial.png)
-  - [factoriall.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/Factorial/factoriall.png)
+## Program File
+[FactorialServlet.java](FactorialCalculatorDemo/src/main/java/FactorialServlet.java)
 
-## Prime Number Checker
-- [PrimeServlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6/Servlet/programs/primechecker/PrimeServlet.java)
-- [PrimeCheckerServlet.java](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/primechecker/PrimeCheckerServlet/src/main/java/PrimeCheckerServlet.java)
-- Output:
-  - [primechecker.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6/Servlet/programs/primechecker/primechecker.png)
-  - [primecheckerresult.png](https://github.com/Krishmaa10/Advanced-Java/blob/main/Lab6%20Servlet%20programs/primechecker/primecheckerresult.png)
+## Output Image
+![Output](factorial.png)
+
+# Cookie Management Servlet Program
+
+## Program File
+[CookieServlet.java](src/main/java/CookieServlet.java)
+
+## Output Image
+![Output](cookieservlet.jpg)
+
+# Prime Checker Servlet Program
+
+## Program File
+[PrimeServlet.java](PrimeCheckerServlet/src/main/java/PrimeServlet.java)
+
+## Output Image
+![Output](primechecker.png)
+
